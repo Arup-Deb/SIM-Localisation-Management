@@ -34,4 +34,4 @@ git clone https://github.com/yourusername/SIM-Localisation-Management.git
 
 Compile the project using your IDE or the command line.
 
-Run the main class to start the application.
+Run the main class to start the application..
